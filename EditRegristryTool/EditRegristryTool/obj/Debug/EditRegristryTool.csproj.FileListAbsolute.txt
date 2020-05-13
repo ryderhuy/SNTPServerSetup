@@ -1,0 +1,12 @@
+E:\Code\EditRegristryTool\EditRegristryTool\obj\Debug\EditRegristryTool.csprojResolveAssemblyReference.cache
+E:\Code\EditRegristryTool\EditRegristryTool\obj\Debug\EditRegristryTool.Form1.resources
+E:\Code\EditRegristryTool\EditRegristryTool\obj\Debug\EditRegristryTool.Properties.Resources.resources
+E:\Code\EditRegristryTool\EditRegristryTool\obj\Debug\EditRegristryTool.csproj.GenerateResource.Cache
+E:\Code\EditRegristryTool\EditRegristryTool\obj\Debug\Interop.NetFwTypeLib.dll
+E:\Code\EditRegristryTool\EditRegristryTool\obj\Debug\EditRegristryTool.csproj.ResolveComReference.cache
+E:\Code\EditRegristryTool\EditRegristryTool\obj\Debug\EditRegristryTool.FormCreateInbound.resources
+E:\Code\EditRegristryTool\EditRegristryTool\bin\Debug\SNPTServerSetup.exe.config
+E:\Code\EditRegristryTool\EditRegristryTool\bin\Debug\SNPTServerSetup.exe
+E:\Code\EditRegristryTool\EditRegristryTool\bin\Debug\SNPTServerSetup.pdb
+E:\Code\EditRegristryTool\EditRegristryTool\obj\Debug\SNPTServerSetup.exe
+E:\Code\EditRegristryTool\EditRegristryTool\obj\Debug\SNPTServerSetup.pdb
